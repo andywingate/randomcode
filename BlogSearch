@@ -6,8 +6,10 @@
       name="q" 
       size="20" 
       type="text" 
-      value=" " />
+      value=" " 
+    />
     <input 
       type="submit" 
-      value="Go!" />
+      value="Go!" 
+    />
 </form>
