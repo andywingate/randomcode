@@ -1,4 +1,13 @@
-<form action="http://yourblog.blogspot.com/search" method="get" name="input">
-<input name="q" size="20" type="text" value=" " />
-<input type="submit" value="Go!" />
+<form 
+  action="http://yourblog.blogspot.com/search" 
+  method="get" 
+  name="input">
+    <input 
+      name="q" 
+      size="20" 
+      type="text" 
+      value=" " />
+    <input 
+      type="submit" 
+      value="Go!" />
 </form>
